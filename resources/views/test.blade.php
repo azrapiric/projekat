@@ -1,0 +1,1 @@
+{{ Lang::get('common.email') }}
